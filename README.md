@@ -1,0 +1,3 @@
+### 3D Object
+
+create scripts js for add actions such sounds, animations, mensagens...
